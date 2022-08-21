@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amesh</h1>
-<h3 align="center">FOSS Enthusiast | Blogger |Full stack</h3>
+<h3 align="center">FOSS Enthusiast | Blogger | Full stack</h3>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/ameshchanuka?logo=GitHub&style=for-the-badge)][github]
