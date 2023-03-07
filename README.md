@@ -1,4 +1,4 @@
-![MasterHead width="200"](https://media.tenor.com/_i9AUV0dv_0AAAAS/welcome-banner.gif)
+![MasterHead](http://aweber.design/gifs/images/Sans/Sans-White-BBG.gif)
 <h1 align="center">Hi 👋, I'm Amesh</h1>
 <h3 align="center">FOSS Enthusiast | Blogger | Full Stack Developer</h3>
 
