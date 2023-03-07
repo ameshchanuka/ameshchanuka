@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameshchanuka&label=Profile%20views&color=0e75b6&style=flat" alt="ameshchanuka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameshchanuka" alt="ameshchanuka" /></a> </p>
 
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 
