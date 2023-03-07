@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameshchanuka&show_icons=true&locale=en&layout=compact" alt="ameshchanuka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameshchanuka&show_icons=true&locale=en" alt="ameshchanuka" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameshchanuka&" alt="ameshchanuka" /></p>
