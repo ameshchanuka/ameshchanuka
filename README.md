@@ -1,4 +1,4 @@
-![MasterHead](https://ibb.co/6r17kJr)
+![MasterHead](https://i.ibb.co/k59st65/Free-Universe-Stars-Video-Gif-Animated-Zoom-Virtual-Background.gif)
 <h1 align="center">Hi 👋, I'm Amesh</h1>
 <h3 align="center">FOSS Enthusiast | Blogger | Full Stack Developer</h3>
 
